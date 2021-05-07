@@ -5,10 +5,14 @@
 Here goes your awesome project description!
 ##Technologies Used
 
-    Javalin - 3.13.4
-    PostMan - version 2.0
-    Cassandra - version 3.0
-    S3
+    Java 1.8
+    JUnit 5
+    Mockito
+    Javalin
+    PostMan
+    Cassandra
+    AWS Keyspace
+    AWS S3
 
 ## Features
 
