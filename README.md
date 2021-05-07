@@ -5,20 +5,20 @@
 Here goes your awesome project description!
 ##Technologies Used
 
-    Tech 1 - version 1.0
-    Tech 2 - version 2.0
-    Tech 3 - version 3.0
+    Javalin - 3.13.4
+    PostMan - version 2.0
+    Cassandra - version 3.0
+    S3
 
 ## Features
 
-## List of features ready and TODOs for future development
-
-    Awesome feature 1
-    Awesome feature 2
-    Awesome feature 3
+    User Login/Logout
+    View Form
+    File Upload/Download
+    Form Submission
+    Form Approval
 
 ## To-do list:
 
-    Wow improvement to be done 1
-    Wow improvement to be done 2
+    Email Notification
    
